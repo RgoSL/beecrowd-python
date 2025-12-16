@@ -13,6 +13,9 @@
   
 - ### 1010 
   > Simple Calculation of Total Price
+
+- ### 1012
+  > Calculation of Different Geometric Areas
   
   ---
   
