@@ -16,6 +16,12 @@
 
 - ### 1012
   > Calculation of Different Geometric Areas
+
+- ### 1015
+  > Calculation of The Distance Between Four Points
+
+- ### 1035
+  > Conditional Structure For a Specific Selection
   
   ---
   
